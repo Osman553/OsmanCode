@@ -1,0 +1,59 @@
+body {
+    background-color:rgba(82, 9, 9, 0.281);
+}
+
+p {
+    color: rgb(0, 4, 255);
+}
+
+.serv {
+    color: blue; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: larger;
+    text-align: center;
+}
+
+
+.right{
+    float: right;
+
+}
+
+.left{
+    float: left;
+}
+
+
+
+.intro{
+    clear: both;
+}
+ 
+.intro p{
+    text-align: center;
+}
+
+.right.links a{
+    padding-right: 20px;
+}
+
+.about p{
+    text-align: center;
+}
+
+.sec p{
+    text-align: center;
+}
+
+.centre{
+    text-align: center;
+}
+
+.contacts h2{
+    text-align: center;
+}
+
+.centrelink{
+    text-align: center;
+}
+
